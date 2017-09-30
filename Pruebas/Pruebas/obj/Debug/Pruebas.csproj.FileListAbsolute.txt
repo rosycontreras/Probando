@@ -1,0 +1,6 @@
+C:\Users\Erick Contreras\Desktop\Pruebas\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\Erick Contreras\Desktop\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\Erick Contreras\Desktop\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\Erick Contreras\Desktop\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Erick Contreras\Desktop\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\Erick Contreras\Desktop\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
